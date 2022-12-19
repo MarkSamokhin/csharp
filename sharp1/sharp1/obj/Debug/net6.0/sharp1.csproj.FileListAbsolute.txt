@@ -1,0 +1,15 @@
+C:\Users\mak7i\source\repos\sharp1\sharp1\bin\Debug\net6.0\sharp1.exe
+C:\Users\mak7i\source\repos\sharp1\sharp1\bin\Debug\net6.0\sharp1.deps.json
+C:\Users\mak7i\source\repos\sharp1\sharp1\bin\Debug\net6.0\sharp1.runtimeconfig.json
+C:\Users\mak7i\source\repos\sharp1\sharp1\bin\Debug\net6.0\sharp1.dll
+C:\Users\mak7i\source\repos\sharp1\sharp1\bin\Debug\net6.0\sharp1.pdb
+C:\Users\mak7i\source\repos\sharp1\sharp1\obj\Debug\net6.0\sharp1.csproj.AssemblyReference.cache
+C:\Users\mak7i\source\repos\sharp1\sharp1\obj\Debug\net6.0\sharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mak7i\source\repos\sharp1\sharp1\obj\Debug\net6.0\sharp1.AssemblyInfoInputs.cache
+C:\Users\mak7i\source\repos\sharp1\sharp1\obj\Debug\net6.0\sharp1.AssemblyInfo.cs
+C:\Users\mak7i\source\repos\sharp1\sharp1\obj\Debug\net6.0\sharp1.csproj.CoreCompileInputs.cache
+C:\Users\mak7i\source\repos\sharp1\sharp1\obj\Debug\net6.0\sharp1.dll
+C:\Users\mak7i\source\repos\sharp1\sharp1\obj\Debug\net6.0\refint\sharp1.dll
+C:\Users\mak7i\source\repos\sharp1\sharp1\obj\Debug\net6.0\sharp1.pdb
+C:\Users\mak7i\source\repos\sharp1\sharp1\obj\Debug\net6.0\sharp1.genruntimeconfig.cache
+C:\Users\mak7i\source\repos\sharp1\sharp1\obj\Debug\net6.0\ref\sharp1.dll

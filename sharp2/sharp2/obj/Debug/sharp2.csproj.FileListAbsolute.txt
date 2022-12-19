@@ -1,0 +1,11 @@
+C:\Users\mak7i\source\repos\sharp2\sharp2\bin\Debug\sharp2.exe.config
+C:\Users\mak7i\source\repos\sharp2\sharp2\bin\Debug\sharp2.exe
+C:\Users\mak7i\source\repos\sharp2\sharp2\bin\Debug\sharp2.pdb
+C:\Users\mak7i\source\repos\sharp2\sharp2\obj\Debug\sharp2.csproj.AssemblyReference.cache
+C:\Users\mak7i\source\repos\sharp2\sharp2\obj\Debug\sharp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mak7i\source\repos\sharp2\sharp2\obj\Debug\sharp2.Form1.resources
+C:\Users\mak7i\source\repos\sharp2\sharp2\obj\Debug\sharp2.Properties.Resources.resources
+C:\Users\mak7i\source\repos\sharp2\sharp2\obj\Debug\sharp2.csproj.GenerateResource.cache
+C:\Users\mak7i\source\repos\sharp2\sharp2\obj\Debug\sharp2.csproj.CoreCompileInputs.cache
+C:\Users\mak7i\source\repos\sharp2\sharp2\obj\Debug\sharp2.exe
+C:\Users\mak7i\source\repos\sharp2\sharp2\obj\Debug\sharp2.pdb
